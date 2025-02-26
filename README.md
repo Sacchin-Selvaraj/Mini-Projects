@@ -30,14 +30,14 @@ A Java-based Railway Booking System for booking train tickets, checking seat ava
 - **Collections Framework - Queue**
 - **Object-Oriented Programming (OOP)** principles
 
-  # Flight Booking System
+# Flight Booking System
 
 A Java-based Flight Booking System for booking flights, managing reservations, and checking flight schedules.
 
 ## Features
 - Flight search and booking.
 - Seat selection 
-- Flight schedule management (admin panel).
+- Flight ticket price management (admin panel).
 
 ## Technologies Used
 - **Core Java**
